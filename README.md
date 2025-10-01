@@ -1,7 +1,6 @@
-<p float="center">
-  <img src="/mnar_outcome/mnar.png" width="250" /> 
+<p align="center">
+  <img src="/mnar_outcome/bnp_example.png" width="250" />
 </p>
-
 #Bayesian Sensitivity Analyses in Causal Inference
 
 This is the companion repository for the paper ``Stress-Testing Assumptions: A Practical Guide to Bayesian Sensitivity Analyses in Causal Inference''
