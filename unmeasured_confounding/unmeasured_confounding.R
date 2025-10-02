@@ -21,7 +21,7 @@ y = rbinom(n,1 , plogis(1 + 1*l - 2*u + 0*a ) ) ## sicker patients less likely Y
 
 
 ## stan model implementing sensitivty method described in slides.
-mod = stan_model("unmeasured_confounding2.stan")
+mod = stan_model("unmeasured_confounding.stan")
 
 #_______________________________________________________________________________
 ## Estimate causal effect assuming no unmeasured confounding ___________________

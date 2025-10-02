@@ -1,8 +1,6 @@
 library(rstan)
 library(latex2exp)
 
-setwd("~/google_drive/Research/epi_sensitivity_analysis/manuscript_code/misclassification_example/")
-
 ###--- Simulate Some Data ---###
 set.seed(10)
 

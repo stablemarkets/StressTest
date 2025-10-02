@@ -6,7 +6,7 @@
 
 ---
 
-This is the companion repository for the paper "Stress-Testing Assumptions: A Practical Guide to Bayesian Sensitivity Analyses in Causal Inference""
+This is the companion repository for the paper "Stress-Testing Assumptions: A Guide to Bayesian Sensitivity Analyses in Causal Inference""
 
 ### Directory
 
